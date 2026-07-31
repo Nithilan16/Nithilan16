@@ -1,7 +1,8 @@
 # Bonjour, je suis SIVAANPU Nithilan
  
 **Étudiant en Master 2 Big Data, Analyse & Business Intelligence — Sorbonne Paris Nord**
-
+ 
+---
  
 ## À propos
 
@@ -45,13 +46,11 @@ Intérêt principal pour l'analyse de données, la modélisation statistique et 
  
 ## Projets
  
-**Analyse géospatiale et saisonnalité des observations GBIF sur 5 espèces menacées :**
-
+### Analyse géospatiale et saisonnalité des observations GBIF sur 5 espèces menacées
 Projet personnel exploitant les données **GBIF** pour cartographier et analyser la répartition d'espèces menacées, avec visualisation interactive via **Folium**.
 [Espèces menacées en Afrique] Python · Pandas · Folium 
  
-**SmartCheck :**
-
+### SmartCheck
 Projet académique d'équipe : conception d'un système de suivi de présence combinant application mobile, synchronisation de données et restitution décisionnelle.
 
 Système de gestion de présence par QR code. Architecture PowerApps / FastAPI / PostgreSQL / SQLite avec synchronisation offline et conformité RGPD.
