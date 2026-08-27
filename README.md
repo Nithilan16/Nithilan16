@@ -1,7 +1,6 @@
 # Bonjour, je suis SIVAANPU Nithilan
  
 **Étudiant en Master 2 Big Data, Analyse & Business Intelligence — Sorbonne Paris Nord**
----
  
 ## À propos
 
