@@ -1,6 +1,7 @@
-# Bonjour, je suis SIVAANPU Nithilan
- 
-**Étudiant en Master 2 Big Data, Analyse & Business Intelligence — Sorbonne Paris Nord**
+# Bonjour, je suis Nithilan Sivaanpu
+**Étudiant en M2 Big Data, Analyse & Business Intelligence — Sorbonne Paris Nord**
+
+---
  
 ## À propos
 
@@ -11,6 +12,8 @@ Actuellement en M2 Big Data, Analyse et Business Intelligence à l'Université S
 Mon parcours combine une base solide en **économie/gestion** et une spécialisation progressive vers la **data** : manipulation de données (SQL, Python), modélisation statistique (économétrie appliquée en R), et restitution décisionnelle (Power BI).
  
 Intérêt principal pour l'analyse de données, la modélisation statistique et la restitution via des outils de Business Intelligence.
+
+---
 
 ## Compétences techniques
 
@@ -31,6 +34,8 @@ Intérêt principal pour l'analyse de données, la modélisation statistique et 
 **Gouvernance & Conformité**
 - Notions RGPD / CNIL appliquées à la gestion de données
 
+---
+
 ## Stack technique
  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -41,6 +46,8 @@ Intérêt principal pour l'analyse de données, la modélisation statistique et 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
  
 ## Projets
 **Analyse géospatiale et saisonnalité des observations GBIF sur 5 espèces menacées :**
@@ -54,6 +61,8 @@ Système de gestion de présence par QR code. Architecture PowerApps / FastAPI /
 
 **Ma contribution** : analyse fonctionnelle des règles métier et conception de l'architecture de synchronisation des données (PowerApps ↔ PostgreSQL via FastAPI).
 `PowerApps` `FastAPI` `PostgreSQL` `Power BI` `Conception fonctionnelle`
+
+---
  
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithilan-sivaanpu-721415416)
