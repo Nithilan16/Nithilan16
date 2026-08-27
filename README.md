@@ -1,14 +1,13 @@
 # Bonjour, je suis SIVAANPU Nithilan
  
 **Étudiant en Master 2 Big Data, Analyse & Business Intelligence — Sorbonne Paris Nord**
- 
 ---
  
 ## À propos
 
 Bienvenue sur mon profil GitHub !
 
-Actuellement en M2 Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord (USPN), après une Licence en Économie-Gestion et un DUT en Gestion des Entreprises et des Administrations.
+Actuellement en M2 Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord (USPN), après une Licence en Économie-Gestion.
 
 Mon parcours combine une base solide en **économie/gestion** et une spécialisation progressive vers la **data** : manipulation de données (SQL, Python), modélisation statistique (économétrie appliquée en R), et restitution décisionnelle (Power BI).
  
@@ -45,12 +44,11 @@ Intérêt principal pour l'analyse de données, la modélisation statistique et 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
  
 ## Projets
- 
-### Analyse géospatiale et saisonnalité des observations GBIF sur 5 espèces menacées
+**Analyse géospatiale et saisonnalité des observations GBIF sur 5 espèces menacées :**
 Projet personnel exploitant les données **GBIF** pour cartographier et analyser la répartition d'espèces menacées, avec visualisation interactive via **Folium**.
 [Espèces menacées en Afrique] Python · Pandas · Folium 
  
-### SmartCheck
+**SmartCheck :**
 Projet académique d'équipe : conception d'un système de suivi de présence combinant application mobile, synchronisation de données et restitution décisionnelle.
 
 Système de gestion de présence par QR code. Architecture PowerApps / FastAPI / PostgreSQL / SQLite avec synchronisation offline et conformité RGPD.
