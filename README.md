@@ -10,7 +10,7 @@ Bienvenue sur mon profil GitHub !
 Actuellement en M2 Big Data, Analyse et Business Intelligence à l'Université Sorbonne Paris Nord (USPN), après une Licence en Économie-Gestion.
 
 Mon parcours combine une base solide en **économie/gestion** et une spécialisation progressive vers la **data** : manipulation de données (SQL, Python), modélisation statistique (économétrie appliquée en R), et restitution décisionnelle (Power BI).
- 
+
 Intérêt principal pour l'analyse de données, la modélisation statistique et la restitution via des outils de Business Intelligence.
 
 ---
@@ -24,7 +24,7 @@ Intérêt principal pour l'analyse de données, la modélisation statistique et 
 
 **Programmation**
 - Python (Pandas, analyse de données)
-- SQL (MySQL) — requêtes avancées : sous-requêtes corrélées, fonctions de fenêtrage, self-joins
+- SQL (MySQL),  requêtes avancées : sous-requêtes corrélées, fonctions de fenêtrage, self-joins
 - R (modélisation économétrique)
  
 **Business Intelligence & Restitution**
@@ -48,7 +48,7 @@ Intérêt principal pour l'analyse de données, la modélisation statistique et 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
- 
+
 ## Projets
 
 ### [Cartographie de la biodiversité menacée (GBIF)]
