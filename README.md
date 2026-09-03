@@ -1,8 +1,8 @@
 # Bonjour, je suis Nithilan Sivaanpu
-**Étudiant en M2 Big Data, Analyse & Business Intelligence — Sorbonne Paris Nord**
+**Étudiant en M2 Big Data, Analyse & Business Intelligence à l'Université Sorbonne Paris Nord**
 
 ---
- 
+
 ## À propos
 
 Bienvenue sur mon profil GitHub !
@@ -50,22 +50,30 @@ Intérêt principal pour l'analyse de données, la modélisation statistique et 
 ---
  
 ## Projets
-**Analyse géospatiale et saisonnalité des observations GBIF sur 5 espèces menacées :**
-Projet personnel exploitant les données **GBIF** pour cartographier et analyser la répartition d'espèces menacées, avec visualisation interactive via **Folium**.
-[Espèces menacées en Afrique] Python · Pandas · Folium 
- 
-**SmartCheck :**
-Projet académique d'équipe : conception d'un système de suivi de présence combinant application mobile, synchronisation de données et restitution décisionnelle.
 
-Système de gestion de présence par QR code. Architecture PowerApps / FastAPI / PostgreSQL / SQLite avec synchronisation offline et conformité RGPD.
+### [Cartographie de la biodiversité menacée (GBIF)]
+Analyse géospatiale et temporelle d'observations d'espèces menacées à partir de l'API GBIF.
+- Nettoyage et structuration de données d'observation brutes (Pandas)
+- Cartographie interactive des zones de concentration (Folium)
+- Analyse de saisonnalité des observations
+**Résultat :** [à compléter avec un chiffre ou une conclusion clé, ex. nombre de zones identifiées]
+`Python` `Pandas` `Folium`
 
-**Ma contribution** : analyse fonctionnelle des règles métier et conception de l'architecture de synchronisation des données (PowerApps ↔ PostgreSQL via FastAPI).
-`PowerApps` `FastAPI` `PostgreSQL` `Power BI` `Conception fonctionnelle`
+---
+
+### 📋 [SmartCheck — Système de gestion de présence par QR code]
+Projet académique d'équipe : conception d'un système de suivi de présence avec synchronisation offline et restitution décisionnelle.
+- Analyse fonctionnelle des règles métier (R1-R7)
+- Conception de l'architecture de synchronisation PowerApps ↔ PostgreSQL via FastAPI
+- Prise en compte de la conformité RGPD (traçabilité des actions)
+**Ma contribution :** conception fonctionnelle et architecture de synchronisation (pas de développement applicatif direct)
+`PowerApps` `FastAPI` `PostgreSQL` `Power BI`
 
 ---
  
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithilan-sivaanpu-721415416)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithilan.sivaanpu@gmail.com)
+[Mon CV](LIEN_A_COMPLETER)
 
 *Ouvert aux échanges, aux retours constructifs et aux opportunités de stage à partir de mars 2027.*
