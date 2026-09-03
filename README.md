@@ -18,7 +18,7 @@ Intérêt principal pour l'analyse de données, la modélisation statistique et 
 ## Compétences techniques
 
 **Analyse de données & Statistiques**
-- Modélisation économétrique (régression logistique, modèles emboîtés) — R
+- Modélisation économétrique (régression logistique, modèles emboîtés) sur R
 - Analyse exploratoire, nettoyage et structuration de données
 - Statistiques descriptives et inférentielles
 
@@ -28,7 +28,7 @@ Intérêt principal pour l'analyse de données, la modélisation statistique et 
 - R (modélisation économétrique)
  
 **Business Intelligence & Restitution**
-- Power BI (modélisation de données, DAX, visualisation) — en préparation certification PL-300
+- Power BI (modélisation de données, DAX, visualisation), en préparation certification PL-300
 - Excel (Tableau croisée dynamique)
 
 **Gouvernance & Conformité**
@@ -61,7 +61,7 @@ Analyse géospatiale et temporelle d'observations d'espèces menacées à partir
 
 ---
 
-### 📋 [SmartCheck — Système de gestion de présence par QR code]
+### [SmartCheck — Système de gestion de présence par QR code]
 Projet académique d'équipe : conception d'un système de suivi de présence avec synchronisation offline et restitution décisionnelle.
 - Analyse fonctionnelle des règles métier (R1-R7)
 - Conception de l'architecture de synchronisation PowerApps ↔ PostgreSQL via FastAPI
@@ -70,7 +70,7 @@ Projet académique d'équipe : conception d'un système de suivi de présence av
 `PowerApps` `FastAPI` `PostgreSQL` `Power BI`
 
 ---
- 
+
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithilan-sivaanpu-721415416)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithilan.sivaanpu@gmail.com)
