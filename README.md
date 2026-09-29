@@ -74,6 +74,6 @@ Projet académique d'équipe : conception d'un système de suivi de présence av
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithilan-sivaanpu-721415416)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithilan.sivaanpu@gmail.com)
-[Mon CV](LIEN_A_COMPLETER)
+[Mon CV](CV - SIVAANPU Nithilan.pdf)
 
 *Ouvert aux échanges, aux retours constructifs et aux opportunités de stage à partir de mars 2027.*
