@@ -26,7 +26,7 @@ Intérêt principal pour l'analyse de données, la modélisation statistique et 
 - Python (Pandas, analyse de données)
 - SQL (MySQL),  requêtes avancées : sous-requêtes corrélées, fonctions de fenêtrage, self-joins
 - R (modélisation économétrique)
- 
+
 **Business Intelligence & Restitution**
 - Power BI (modélisation de données, DAX, visualisation), en préparation certification PL-300
 - Excel (Tableau croisée dynamique)
@@ -51,25 +51,27 @@ Intérêt principal pour l'analyse de données, la modélisation statistique et 
 
 ## Projets
 
-### [Cartographie de la biodiversité menacée (GBIF)]
-Analyse géospatiale et temporelle d'observations d'espèces menacées à partir de l'API GBIF.
-- Nettoyage et structuration de données d'observation brutes (Pandas)
-- Cartographie interactive des zones de concentration (Folium)
-- Analyse de saisonnalité des observations
-**Résultat :** [à compléter avec un chiffre ou une conclusion clé, ex. nombre de zones identifiées]
-`Python` `Pandas` `Folium`
+### [Segmentation client RFM et clustering K-Means (Online Retail II)](https://github.com/Nithilan16/Online_retail-rfm-segmentation.git)
+Analyse de transactions e-commerce (~700 000 lignes après nettoyage) pour identifier des segments de clients à partir de la récence, de la fréquence et du montant d’achat : 
+
+• Nettoyage : traitement des annulations, des identifiants manquants et des codes administratifs, avec règles documentées
+• Construction des variables RFM et segmentation par K-Means
+• Restitution : notebooks commentés, visualisations, recommandations par segment
+
+Résultat : Identification d’un segment « Champions » (15 % des clients) générant 60 % du chiffre d’affaires, retrouvé par RFM et K-Means.
 
 ---
 
-### [SmartCheck — Système de gestion de présence par QR code]
-Projet académique d'équipe : conception d'un système de suivi de présence avec synchronisation offline et restitution décisionnelle.
-- Analyse fonctionnelle des règles métier (R1-R7)
-- Conception de l'architecture de synchronisation PowerApps ↔ PostgreSQL via FastAPI
-- Prise en compte de la conformité RGPD (traçabilité des actions)
-**Ma contribution :** conception fonctionnelle et architecture de synchronisation (pas de développement applicatif direct)
-`PowerApps` `FastAPI` `PostgreSQL` `Power BI`
+### [Projet espèces menacées : Analyse géospatiale GBIF](https://github.com/Nithilan16/especes_menacees_afrique.git)
+Analyse géospatiale et temporelle d'observations d'espèces menacées à partir de l'API GBIF :
 
----
+• Collecte des données via l'API GBIF, puis nettoyage et structuration avec pandas et NumPy
+• Cartographie interactive des zones de concentration (Folium)
+• Analyse de saisonnalité des observations 
+• Visualisations statistiques avec Matplotlib et Seaborn
+• Python Pandas Folium Seaborn Matplotlib Numpy
+
+Résultat : Mise en évidence d’une saisonnalité quasi identique pour les 5 espèces (~1/3 des observations en juillet-septembre), suggérant un biais d’effort d’observation plutôt qu’un effet biologique.
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithilan-sivaanpu-721415416)
