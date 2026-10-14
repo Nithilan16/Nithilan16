@@ -54,9 +54,9 @@ Intérêt principal pour l'analyse de données, la modélisation statistique et 
 ### [Segmentation client RFM et clustering K-Means (Online Retail II)](https://github.com/Nithilan16/Online_retail-rfm-segmentation.git)
 Analyse de transactions e-commerce (~700 000 lignes après nettoyage) pour identifier des segments de clients à partir de la récence, de la fréquence et du montant d’achat : 
 
-• Nettoyage : traitement des annulations, des identifiants manquants et des codes administratifs, avec règles documentées
-• Construction des variables RFM et segmentation par K-Means
-• Restitution : notebooks commentés, visualisations, recommandations par segment
+- Nettoyage : traitement des annulations, des identifiants manquants et des codes administratifs, avec règles documentées
+- Construction des variables RFM et segmentation par K-Means
+- Restitution : notebooks commentés, visualisations, recommandations par segment
 
 Résultat : Identification d’un segment « Champions » (15 % des clients) générant 60 % du chiffre d’affaires, retrouvé par RFM et K-Means.
 
@@ -65,11 +65,11 @@ Résultat : Identification d’un segment « Champions » (15 % des clients) gé
 ### [Projet espèces menacées : Analyse géospatiale GBIF](https://github.com/Nithilan16/especes_menacees_afrique.git)
 Analyse géospatiale et temporelle d'observations d'espèces menacées à partir de l'API GBIF :
 
-• Collecte des données via l'API GBIF, puis nettoyage et structuration avec pandas et NumPy
-• Cartographie interactive des zones de concentration (Folium)
-• Analyse de saisonnalité des observations 
-• Visualisations statistiques avec Matplotlib et Seaborn
-• Python Pandas Folium Seaborn Matplotlib Numpy
+- Collecte des données via l'API GBIF, puis nettoyage et structuration avec pandas et NumPy
+- Cartographie interactive des zones de concentration (Folium)
+- Analyse de saisonnalité des observations 
+- Visualisations statistiques avec Matplotlib et Seaborn
+- Python Pandas Folium Seaborn Matplotlib Numpy
 
 Résultat : Mise en évidence d’une saisonnalité quasi identique pour les 5 espèces (~1/3 des observations en juillet-septembre), suggérant un biais d’effort d’observation plutôt qu’un effet biologique.
 
